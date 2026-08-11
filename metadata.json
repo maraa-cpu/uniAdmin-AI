@@ -1,0 +1,6 @@
+{
+  "name": "UniAdmin AI - Student Document & Task Parser",
+  "description": "Valutatore di fattibilità AI e analizzatore intelligente di documenti, email e scadenze universitarie per studenti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
