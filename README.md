@@ -35,5 +35,5 @@ uniAdmin AI è un'applicazione web full-stack sviluppata in **React**, **TypeScr
 
 ### 1. Clona il Repository o Scarica il Codice
 ```bash
-git clone https://github.com/TUO_USERNAME/life-admin-ai.git
-cd life-admin-ai
+git clone https://github.com/maraa-cpu/uniAdmin-AI.git
+cd uniAdmin-AI
